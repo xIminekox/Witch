@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: cfa4e66ccf6d0084688c45761e2678e4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton Death_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d58a8cb469997e4b80a10939102671e
+      internalID: 1609859663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Death_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 5
+        width: 20
+        height: 42
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e08be8de83d0c146bb50779e6ee2d3d
+      internalID: -445297738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Death_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 5
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828a014bc51276449a76689c92633d48
+      internalID: 247576480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Death_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.26, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742344a9c0d74e7439d3bad7ce30cd12
+      internalID: 769808436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Death_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 5
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0.34, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89eeb8a8fd3ff241a52235c8ba41538
+      internalID: -1676746359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Death_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 5
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8b818c351192440b7704c22ad5c24c
+      internalID: 638943981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Death_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 5
+        width: 16
+        height: 23
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86163bfe1bd302041a5eea1d1fa992c1
+      internalID: -77561275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Death_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 5
+        width: 16
+        height: 23
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2d465d5bb120f48a5a3a555689b11a
+      internalID: 322158251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Death_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 5
+        width: 22
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e49710b4850d324bbf3c2129eb4a849
+      internalID: -909159545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Death_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5
+        width: 25
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f8695315a79dc4aaf091aafc3a8280
+      internalID: -1681785468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Death_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 5
+        width: 27
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f917501c9627c2d4b8ef78a89f08ee7a
+      internalID: 665366172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Death_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 25
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd94a49b4f686b54988881d3bf3bbc2b
+      internalID: 1048713926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Death_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 4
+        width: 28
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a98c91d0713c2e45b0e75470dbdd177
+      internalID: -1098311242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a686fb1438d8c1743b8f3cae0374d221
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skeleton Death_0: 1609859663
+      Skeleton Death_1: -909159545
+      Skeleton Death_10: 638943981
+      Skeleton Death_11: -77561275
+      Skeleton Death_12: 322158251
+      Skeleton Death_13: 388096927
+      Skeleton Death_14: 2036396869
+      Skeleton Death_15: -384701349
+      Skeleton Death_16: -1069498961
+      Skeleton Death_17: 1598649615
+      Skeleton Death_18: 1076963033
+      Skeleton Death_19: 1234893875
+      Skeleton Death_2: -1681785468
+      Skeleton Death_20: -1189719320
+      Skeleton Death_21: -1598472526
+      Skeleton Death_22: -516121588
+      Skeleton Death_23: -827689417
+      Skeleton Death_3: 665366172
+      Skeleton Death_4: 1048713926
+      Skeleton Death_5: -1098311242
+      Skeleton Death_6: -445297738
+      Skeleton Death_7: 247576480
+      Skeleton Death_8: 769808436
+      Skeleton Death_9: -1676746359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
